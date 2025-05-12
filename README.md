@@ -2,7 +2,7 @@
 # senacrs
 Projetos do senac
 # kotlin
-meus projeto <br>
+meus projeto
 <pre>
 https://pl.kotl.in/n-IxXV4jM
 https://pl.kotl.in/3q3Zbow5b
